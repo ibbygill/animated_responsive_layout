@@ -6,7 +6,7 @@ final User user_0 = User(
   lastActive: DateTime.now());
 
 final User user_1 = User(
-  name: const Name(first:'老', last: '强'),
+  name: const Name(first:'Brown', last: 'Munde'),
   avatarUrl: 'assets/avatar_2.png',
   lastActive: DateTime.now().subtract(const Duration(minutes: 10)));
 
